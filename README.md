@@ -40,12 +40,10 @@ summAI, from UI design to the logo and code, has been personally created to ensu
 
 ## 🙏 Credits
 
-A special thanks to [RapidAPI](https://rapidapi.com) for providing the API that powers this application.
-
-![Logo RapidAPI](lib/assets/images/rapidapi-credits.png)
+Thanks to [RapidAPI](https://rapidapi.com) for providing the API that powers this application.
 
 ---
 
 Developed with ❤️ by **Carlo Caruso**
 
-Check out the demo site at: [summAI Demo](https://carlodev-react-exam.netlify.app/)
+Check out the demo site at: [summAI Demo](https://summai-carlo.netlify.app/)
