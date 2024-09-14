@@ -31,7 +31,7 @@ To use summAI, you need to obtain an API key from RapidAPI:
 3. Insert your API key into the `.env` variable in the project code:
 
    ```env
-   REACT_APP_API_KEY='API_KEY_HERE'
+   VITE_API_ARTICLE_KEY='API_KEY_HERE'
    ```
 
 ## 🎨 Design & Development
