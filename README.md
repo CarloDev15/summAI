@@ -6,6 +6,8 @@
 
 **summAI** is a web application created as a final exam project for React studies, offering an innovative service that summarizes and translates articles from any part of the web into Italian. With an intuitive user interface and advanced features, summAI is the perfect tool for obtaining concise summaries and accurate translations.
 
+🔗 **Live Demo**: [summAI Demo](https://summai-carlo.netlify.app/)
+
 ## 🚀 Key Features
 
 - **Multi-language Summarization**: Paste the URL of an article to receive a summary in Italian, regardless of the original language.
@@ -45,5 +47,3 @@ Thanks to [RapidAPI](https://rapidapi.com) for providing the API that powers thi
 ---
 
 Developed with ❤️ by **Carlo Caruso**
-
-Check out the demo site at: [summAI Demo](https://summai-carlo.netlify.app/)
